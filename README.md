@@ -1,6 +1,12 @@
 
 # 💫 About Me:
-\- 🔭 I’m currently working on becoming a DevOps Engineer<br>- 🌱 I’m currently learning Self-Hosting software including ProxMox, and porting a website to a webapp via Electron.<br>- 👯 I’m looking to collaborate on anything I can do.<br>- 🤔 I’m looking for help with career guidance/connections.<br>- 💬 Ask me about anything, seriously. I lke so many topics.<br>- 📫 How to reach me: Via my LinkedIn<br>- ⚡ Fun fact: I'm trying to learn Japanese 🗾<br>
+\- 🔭 I’m currently working on becoming a DevOps Engineer<br>- 
+🌱 I’m currently learning Self-Hosting software including ProxMox, and porting a website to a webapp via Electron.<br>- 
+👯 I’m looking to collaborate on anything I can do.<br>- 
+🤔 I’m looking for help with career guidance/connections.<br>- 
+💬 Ask me about anything, seriously. I like so many topics.<br>- 
+📫 How to reach me: Via my LinkedIn<br>- 
+⚡ Fun fact: I'm trying to learn Japanese 🗾<br>
 
 
 ## 🌐 Socials:
